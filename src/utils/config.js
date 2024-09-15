@@ -1,5 +1,5 @@
 const local = "http://localhost:8080";
-const pro = "https://robobitst-backend.onrender.com";
+const pro = "https://ogani-backend.onrender.com";
 
 let base_url = "";
 let mode = "pro";
